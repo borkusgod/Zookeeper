@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Apple pie" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time difference" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of integers" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper/task" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

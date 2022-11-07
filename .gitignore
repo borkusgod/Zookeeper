@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/While loops/Bank interest calculation/out/
+/Topics/While loops/Bank interest calculation/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/
